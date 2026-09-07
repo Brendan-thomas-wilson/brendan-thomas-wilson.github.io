@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+  <h1>Brendan Wilson</h1>
+  <h2>Information Systems Student</h2>
+  <p>University of Utah</p>
+
+  <h3>About Me</h3>
+  <p>
+    I am Sophomore year Business Finance student here at the University of Utah with a career interest in personal finance and investment banking with a possible job placement at Morgan Stanely. My interest in Ai stems from the use of it in the financial world and how it can be used to possible predict market shifts and potentially use that information in order to make a profit. Along side this I wish to gain more technical skills such as CSS, Java, Python, SQL and Github.
+  </p>
+
+  <h3>Skills</h3>
+  <ul>
+ 
+    <li>Microsoft Excel</li>
+    <li>Data Analytics</li>
+    <li>AI Prompt Engineering</li>
+  </ul>
+
+  <h3>Projects</h3>
+  <table border="1" cellpadding="8">
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>AI Business Analysis</td>
+      <td>Analyze business data using ChatGPT</td>
+    </tr>
+    <tr>
+      <td>Data Visualization</td>
+      <td>Dashboard built with Tableau</td>
+    </tr>
+    <tr>
+      <td>Web Development</td>
+      <td>Responsive Bootstrap website</td>
+    </tr>
+    <tr>
+      <td>Process Improvement</td>
+      <td>AI-assisted business workflow redesign</td>
+    </tr>
+  </table>
+  <p>(You will update these throughout the semester.)</p>
+
+  <h3>Resume</h3>
+  <p>Resume coming soon.</p>
+
+  <h3>Contact</h3>
+  <ul>
+    <li>Email: <a href="mailto:u1584120@utah.edu">u1584120@utah.edu</a></li>
+    <li>GitHub: <a href="https://github.com/Brendan-thomas-wilson">github.com/Brendan-thomas-wilson</a></li>
+  </ul>
+
+</body>
+</html>
